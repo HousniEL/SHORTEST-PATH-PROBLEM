@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/43-512.png</file>
+        <file>icons/81-512.png</file>
+        <file>icons/62124.png</file>
+        <file>icons/Groupe 114.svg</file>
+        <file>icons/Groupe 134.svg</file>
+        <file>icons/Groupe 135.svg</file>
+        <file>icons/Groupe 162 (1).svg</file>
+        <file>icons/Groupe 167.svg</file>
+        <file>icons/11.jpeg</file>
+        <file>icons/12.jpeg</file>
+    </qresource>
+</RCC>
